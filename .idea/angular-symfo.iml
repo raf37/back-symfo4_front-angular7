@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/src" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/beberlei/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/clue/stream-filter" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/doctrine-cache-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/fgrosse/phpasn1" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/jdorn/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/mdanter/ecc" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/nelmio/cors-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/ocramius/package-versions" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/ocramius/proxy-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/okta/jwt-verifier" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/php-http/client-common" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/php-http/curl-client" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/php-http/discovery" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/php-http/httplug" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/php-http/message" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/php-http/message-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/php-http/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/spomky-labs/aes-key-wrap" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/spomky-labs/base64url" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/spomky-labs/jose" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/spomky-labs/php-aes-gcm" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/orm-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/zendframework/zend-code" />
+      <excludeFolder url="file://$MODULE_DIR$/bad-puns-tracker-server/vendor/zendframework/zend-eventmanager" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
